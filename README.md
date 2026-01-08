@@ -13,7 +13,7 @@
 ⚡ Fun fact: I love transforming frontend designs into complete full-stack applications
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prem-kushwaha-a79b3a230/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialprem445@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prem-kushwaha-a79b3a230) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialprem445@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
